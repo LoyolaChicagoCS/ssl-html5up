@@ -2878,16 +2878,20 @@ input, select, textarea {
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 0;
+		padding-left: 0;		
+		
 	}
 
 		ul.icons li {
 			display: inline-block;
 			padding: 0 0.75rem 0 0;
+		
 		}
 
 			ul.icons li:last-child {
 				padding-right: 0;
+				
+				
 			}
 
 /* Section/Article */
@@ -7617,7 +7621,7 @@ input, select, textarea {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: flex; 
 		-moz-flex-wrap: wrap;
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
@@ -7642,6 +7646,7 @@ input, select, textarea {
 			border-style: solid;
 			border-left-width: 1px;
 			border-top-width: 1px;
+			text-wrap:wrap;
 		}
 
 		.items.style1.big > * {
@@ -7656,7 +7661,7 @@ input, select, textarea {
 			.items.style1.big > *:nth-child(2n + 1) {
 				border-left-width: 0;
 			}
-
+        /*fred*/
 			/*in items.style1.medium changed width from 33.333333% to 25%*/
 			/*changed nth child to 4 instead of 3*/
 		.items.style1.medium > * { 
