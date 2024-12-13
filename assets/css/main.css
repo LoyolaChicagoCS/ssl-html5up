@@ -8608,3 +8608,11 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+	#apply-section {
+    position: relative;
+    top: 10%; /* Adjust this value to control how close it is to the top */
+    margin: 0 auto; /* Center horizontally */
+    text-align: center; /* Center the content text */
+    max-width: 800px; /* Optional: Constrain the width for better readability */
+}
