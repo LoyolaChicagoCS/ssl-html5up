@@ -1,0 +1,11 @@
+[project]
+name = "ssl-website"
+version = "0.1.0"
+description = "SSL (Software and Systems Laboratory) website "
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "sphinx>=9.0.4",
+    "sphinx-book-theme>=1.1.4",
+    "sphinx-design",
+]
