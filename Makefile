@@ -1,20 +1,26 @@
-# Minimal makefile for Sphinx documentation
-#
+build:
+# 	git describe --tags --abbrev=0 | tail -n 1 | xargs -I % uv version %
+# 	rm -rf dist/
+# 	rm -rf build/
+	sphinx-build -vvv --write-all --fresh-env src build
 
-# You can set these variables from the command line, and also
-# from the environment for the first two.
-SPHINXOPTS    ?=
-SPHINXBUILD   ?= sphinx-build
-SOURCEDIR     = source
-BUILDDIR      = build
+# create-dev:
+# 	pre-commit install
+# 	pre-commit autoupdate
+# 	uv sync
+# 	uv build
 
-# Put it first so that "make" without argument is like "make help".
-help:
-	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+# convert-cv-to-pdf:
+# 	flatpak run org.libreoffice.LibreOffice \
+# 		--convert-to pdf \
+# 		--outdir src/_static \
+# 		src/_static/NMSynovic_CV.docx
 
-.PHONY: help Makefile
+# convert-resume-to-pdf:
+# 	flatpak run org.libreoffice.LibreOffice \
+# 		--convert-to pdf \
+# 		--outdir src/_static \
+# 		src/_static/NMSynovic_Resume.docx
 
-# Catch-all target: route all unknown targets to Sphinx using the new
-# "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
-%: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+# serve:
+# 	sphinx-autobuild src build
