@@ -22,5 +22,5 @@ build:
 # 		--outdir src/_static \
 # 		src/_static/NMSynovic_Resume.docx
 
-# serve:
-# 	sphinx-autobuild src build
+serve:
+	sphinx-autobuild src build
