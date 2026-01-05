@@ -6,7 +6,7 @@
 :bdg-secondary-line:`ORCID`
 :bdg-secondary-line:`Google Scholar`
 
-.. Juan Martinex
+.. Juan Martinez
 :bdg-secondary-line:`ORCID`
 :bdg-secondary-line:`Google Scholar`
 
