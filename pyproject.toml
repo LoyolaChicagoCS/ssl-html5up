@@ -5,7 +5,7 @@ description = "SSL (Software and Systems Laboratory) website "
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "sphinx>=9.0.4",
+    "sphinx>=8.2.3",
     "sphinx-book-theme>=1.1.4",
-    "sphinx-design",
+    "sphinx-design>=0.6.1",
 ]
