@@ -1,3 +1,5 @@
+from datetime import datetime
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -7,8 +9,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Software and Systems Laboratory'
-copyright = '2025, Loyola University Chicago'
-author = 'Loyola University Chicago'
+copyright = f"{datetime.now().year}, {project}"
+author = project
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -44,17 +46,12 @@ html_theme_options = {
     "icon_links": [
         {
             "name": "GitHub",
-            "url": "https://github.com/NicholasSynovic",
+            "url": "https://github.com/SoftwareSystemsLaboratory",
             "icon": "fa-brands fa-github",
         },
         {
-            "name": "LinkedIn",
-            "url": "https://www.linkedin.com/in/nsynovic",
-            "icon": "fa-brands fa-linkedin",
-        },
-        {
             "name": "Google Scholar",
-            "url": "https://scholar.google.com/citations?user=H3VvTOIAAAAJ&hl=en",
+            "url": "https://scholar.google.com/citations?user=Ls7yS0IAAAAJ",
             "icon": "fa-brands fa-google-scholar",
         },
     ],

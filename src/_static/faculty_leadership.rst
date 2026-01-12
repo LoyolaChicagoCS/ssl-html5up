@@ -5,3 +5,5 @@
 .. Neil Klingensmith
 :bdg-secondary-line:`ORCID`
 :bdg-secondary-line:`Google Scholar`
+
+..

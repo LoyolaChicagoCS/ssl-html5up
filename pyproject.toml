@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "sphinx>=8.2.3",
+    "sphinx-autobuild>=2025.8.25",
     "sphinx-book-theme>=1.1.4",
     "sphinx-design>=0.6.1",
 ]

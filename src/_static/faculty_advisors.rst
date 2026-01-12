@@ -17,3 +17,5 @@
 .. Nicholas J. Hayward
 :bdg-secondary-line:`ORCID`
 :bdg-secondary-line:`Google Scholar`
+
+..

@@ -346,4 +346,5 @@ consult Loyola University Chicago's `official admissions resources <https://gpem
    :hidden:
 
    members
+   projects
    publications

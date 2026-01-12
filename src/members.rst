@@ -21,7 +21,7 @@ Faculty Leadership
       +++
       .. include:: ./_static/faculty_leadership.rst
          :start-after: .. Neil Klingensmith
-
+         :end-before: ..
 
 Faculty Advisors
 ****************
@@ -66,6 +66,7 @@ Faculty Advisors
       +++
       .. include:: ./_static/faculty_advisors.rst
          :start-after: .. Nicholas J. Hayward
+         :end-before: ..
 
 Ph.D Students
 *************
@@ -118,6 +119,7 @@ Ph.D Students
       +++
       .. include:: ./_static/phd_students.rst
          :start-after: .. Purvish Jajal
+         :end-before: ..
 
 Masters Students
 ****************
@@ -264,6 +266,7 @@ Collaborators
       +++
       .. include:: ./_static/collaborators.rst
          :start-after: .. Yung-Hsiang Lu
+         :end-before: ..
 
 Alumni
 ******
@@ -461,162 +464,3 @@ Alumni
       .. include:: ./_static/alumni.rst
          :start-after: .. Jack Narowski
          :end-before: ..
-
-   .. grid-item-card:: Jack West
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Jack West
-         :end-before: ..
-
-   .. grid-item-card:: Jake Palmer
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Jake Palmer
-         :end-before: ..
-
-   .. grid-item-card:: Jakob Veslsky
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Jakob Veslsky
-         :end-before: ..
-
-   .. grid-item-card:: Jean Luc Putter
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Jean Luc Putter
-         :end-before: ..
-
-   .. grid-item-card:: Wenxin Jiang
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Wenxin Jiang
-         :end-before: ..
-
-   .. grid-item-card:: Jonathan Warkentin
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Jonathan Warkentin
-         :end-before: ..
-
-   .. grid-item-card:: Linette Maliakal
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Linette Maliakal
-         :end-before: ..
-
-   .. grid-item-card:: Martin Zugschwert
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Martin Zugschwert
-         :end-before: ..
-
-   .. grid-item-card:: Mike Robinson
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Mike Robinson
-         :end-before: ..
-
-   .. grid-item-card:: Morgan Richardson
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Morgan Richardson
-         :end-before: ..
-
-   .. grid-item-card:: Oscar Yanek
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Oscar Yanek
-         :end-before: ..
-
-   .. grid-item-card:: Riley Clarkson
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Riley Clarkson
-         :end-before: ..
-
-   .. grid-item-card:: Sean Higgins
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Sean Higgins
-         :end-before: ..
-
-   .. grid-item-card:: Shilpika
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Shilpika
-         :end-before: ..
-
-   .. grid-item-card:: Sohini Thota
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Sohini Thota
-         :end-before: ..
-
-   .. grid-item-card:: Sophie Von Hatten
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Sophie Von Hatten
-         :end-before: ..
-
-   .. grid-item-card:: Stephanie Rodriguez
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Stephanie Rodriguez
-         :end-before: ..
-
-   .. grid-item-card:: Trey Roche
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Trey Roche
-         :end-before: ..
-
-   .. grid-item-card:: Yvette Diaz
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Yvette Diaz
-         :end-before: ..
-
-   .. grid-item-card:: Zachary Gallagher
-      :text-align: center
-
-      +++
-      .. include:: ./_static/alumni.rst
-         :start-after: .. Zachary Gallagher

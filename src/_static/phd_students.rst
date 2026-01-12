@@ -21,3 +21,5 @@
 .. Purvish Jajal
 :bdg-secondary-line:`ORCID`
 :bdg-secondary-line:`Google Scholar`
+
+..
