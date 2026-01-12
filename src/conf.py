@@ -38,7 +38,7 @@ html_css_files = ["custom.css"]
 
 # Sphinx Book Theme Settings
 html_theme_options = {
-    "repository_url": "https://github.com/NicholasSynovic/nicholassynovic.github.io",
+    "repository_url": "https://github.com/LoyolaChicagoCS/ssl-html5up",
     "use_repository_button": True,
     "show_navbar_depth": 1,
     "collapse_navbar": True,
