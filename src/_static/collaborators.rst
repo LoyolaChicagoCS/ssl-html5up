@@ -3,7 +3,7 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. Eric Chan-Tin
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0001-8367-5836>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Florence M. Chee
@@ -15,7 +15,7 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. James Davis
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0003-2495-686X>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Jeffrey Carver
@@ -47,7 +47,7 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. Silvio Rizzi
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0002-3804-2471>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Venkatram Vishwanath
@@ -63,7 +63,11 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. Yung-Hsiang Lu
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0002-5491-7661>`
 :bdg-secondary-line:`Google Scholar`
+
+.. Gozde Karatas Baydogmus
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0003-2303-9410>`
+:bdg-link-primary-line:`Google Scholar <https://scholar.google.com/citations?user=hC1RXHAAAAAJ&hl=en>`
 
 ..
