@@ -268,6 +268,15 @@ Collaborators
          :start-after: .. Yung-Hsiang Lu
          :end-before: ..
 
+   .. grid-item-card:: Gozde Karatas Baydogmus
+      :text-align: center
+
+      +++
+      .. include:: ./_static/collaborators.rst
+         :start-after: .. Gozde Karatas Baydogmus
+         :end-before: ..
+
+
 Alumni
 ******
 

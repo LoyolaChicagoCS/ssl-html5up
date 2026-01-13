@@ -66,4 +66,8 @@
 :bdg-secondary-line:`ORCID`
 :bdg-secondary-line:`Google Scholar`
 
+.. Gozde Karatas Baydogmus
+:bdg-secondary-line:`ORCID`
+:bdg-secondary-line:`Google Scholar`
+
 ..
