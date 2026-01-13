@@ -1,9 +1,9 @@
 .. Wenxin Jiang
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0003-2608-8576>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Isaac Ahlgren
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0001-6133-6964>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Juan Martinez
@@ -15,7 +15,7 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. Karolina Ryzka
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0009-0000-2009-5957>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Luke Niemeyer
@@ -23,15 +23,15 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. Rohan Sethi
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0002-9587-3722>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Thomas Papka
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0003-0716-9514>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Luke Baumel
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0003-4031-7611>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Abhinav Goel
@@ -63,7 +63,7 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. Caleb Tung
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0003-0513-0528>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Daniel Palacios
@@ -159,7 +159,7 @@
 :bdg-secondary-line:`Google Scholar`
 
 .. Yvette Diaz
-:bdg-secondary-line:`ORCID`
+:bdg-link-primary-line:`ORCID <https://orcid.org/0000-0002-5684-8305>`
 :bdg-secondary-line:`Google Scholar`
 
 .. Zachary Gallagher
