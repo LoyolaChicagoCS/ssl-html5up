@@ -2,35 +2,49 @@
 Software And Systems Laboratory
 ###############################
 
-The Software and Systems Laboratory (SSL) fosters innovation by encouraging
-experimentation and collaboration with a strong emphasis on openness.
+The Software and Systems Laboratory (SSL)
+=========================================
 
-Thank you for checking out the Software and Systems Laboratory (SSL) website. We
-are a (partially virtual) research laboratory based out of the Computer Science
-Department at Loyola University Chicago.
+The **Software and Systems Laboratory (SSL)** at Loyola University Chicago is an
+interdisciplinary research space where computer systems and applied software engineering
+intersect with **innovation and entrepreneurship**. Led by `George K. Thiruvathukal <https://gkt.sh>`_
+(Professor and Chair of CS) and `Neil Klingensmith <https://neilklingensmith.com/>`_
+(Assistant Professor of CS), the lab occupies a unique position at the
+**hardware/software interface**. By bridging the gap between computer science/software engineering
+and computer engineering, we enable researchers to build impactful, full-stack
+solutions for complex STEAM-related problems.
 
-Our members form an interdisciplinary group with faculty and student interests
-in Computer Science, Software Engineering, Information Technology, Cyber
-Security, and Engineering.
+While our core mission is preparing the next generation of academic researchers,
+we greatly value participation from individuals with interests in **business and leadership**.
+We believe that technical excellence is amplified by entrepreneurial acumen, and
+we welcome collaborators—from within Loyola and beyond—who are driven by project
+management and organizational growth. Following a strict commitment to **openness**,
+we prioritize open-source development, reproducible results, and a diverse
+environment that welcomes all individuals regardless of background. Whether you
+are an aspiring academic or a future tech entrepreneur, the SSL provides the
+collaborative framework to turn creative ideas into real-world innovation.
 
-The laboratory's focus is on researching computer systems and applied Software
-Engineering to solve STEAM-related problems.
+The Software and Systems Laboratory (SSL)
+=========================================
 
-We foster innovation by encouraging experimentation and collaboration with a
-strong emphasis on openness. To uphold this commitment, we enforce open-source
-software development, open access, and dissemination of research software by
-creating reproducible results within all of our projects.
+The **Software and Systems Laboratory (SSL)** at Loyola University Chicago is an
+interdisciplinary hub where computer systems and applied software engineering
+intersect with **innovation and entrepreneurship**. Led by `George K. Thiruvathukal <https://gkt.sh>`_
+(Professor and Chair of CS) and `Neil Klingensmith <https://neilklingensmith.com/>`_
+(Assistant Professor of CS), the lab occupies a unique position at the
+**hardware/software interface**. By bridging the gap between software engineering
+and computer engineering, we enable researchers to build impactful, full-stack
+solutions for complex STEAM-related problems.
 
-SSL embraces the notion that diversity drives creativity and innovation. We
-follow the principles of the IEEE Special Technical Community on Broadening
-Participation allowing anyone regardless of gender, race, ethnicity,
-socio-economic status, physical, mental, and cognitive ability, or LGBTQA+
-status to join our lab.
-
-Interested in working with us at the Software and Systems Laboratory? We welcome
-applications from all individuals, whether you're part of Loyola University or
-from outside the university. If you're passionate about Computer Science,
-Software Engineering, or Cyber Security, we'd love to hear from you!
+While our core mission is preparing the next generation of academic researchers,
+we greatly value participation from individuals with interests in **business and leadership**.
+We believe that technical excellence is amplified by entrepreneurial acumen, and
+we welcome collaborators—from within Loyola and beyond—who are driven by project
+management and organizational growth. Following a strict commitment to **openness**,
+we prioritize open-source development, reproducible results, and a diverse
+environment that welcomes all individuals regardless of background. Whether you
+are an aspiring academic or a future tech entrepreneur, the SSL provides the
+collaborative framework to turn creative ideas into real-world innovation.
 
 Information for Prospective Research Students
 *********************************************
