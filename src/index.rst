@@ -36,6 +36,13 @@ intersect with **innovation and entrepreneurship**. Led by `George K. Thiruvathu
 and computer engineering, we enable researchers to build impactful, full-stack
 solutions for complex STEAM-related problems.
 
+Our current projects focus on
+  empirical software engineering,
+  energy-efficient and performance optimization using large-language models (LLMs),
+  robot learning,
+  interdisciplinary applications of AI to support healthcare and well being.
+  (Details of each of these projects are forthcoming.)
+
 While our core mission is preparing the next generation of academic researchers,
 we greatly value participation from individuals with interests in **business and leadership**.
 We believe that technical excellence is amplified by entrepreneurial acumen, and
