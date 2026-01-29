@@ -124,6 +124,32 @@ Ph.D Students
 Masters Students
 ****************
 
+.. grid:: 3
+
+   .. grid-item-card:: Kenny Lyons
+      :text-align: center
+
+      +++
+      .. include:: ./_static/masters_students.rst
+         :start-after: .. Kenny Lyons
+         :end-before: ..
+
+   .. grid-item-card:: Lingjie Liao
+      :text-align: center
+
+      +++
+      .. include:: ./_static/masters_students.rst
+         :start-after: .. Lingjie Liao
+         :end-before: ..
+
+   .. grid-item-card:: Derek Skinner
+      :text-align: center
+
+      +++
+      .. include:: ./_static/masters_students.rst
+         :start-after: .. Derek Skinner
+         :end-before: ..
+
 Undergraduate Students
 **********************
 
