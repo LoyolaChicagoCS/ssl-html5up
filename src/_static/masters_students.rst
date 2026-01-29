@@ -9,3 +9,5 @@
 .. Derek Skinner
 :bdg-secondary-line:`ORCID`
 :bdg-secondary-line:`Google Scholar`
+
+..

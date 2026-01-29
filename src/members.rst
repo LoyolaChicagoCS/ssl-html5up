@@ -127,6 +127,33 @@ Masters Students
 Undergraduate Students
 **********************
 
+.. grid:: 3
+
+   .. grid-item-card:: Griffen Lee
+      :text-align: center
+
+      +++
+      .. include:: ./_static/undergraduate_students.rst
+         :start-after: .. Griffen Lee
+         :end-before: ..
+
+   .. grid-item-card:: Jacob Oh
+      :text-align: center
+
+      +++
+      .. include:: ./_static/undergraduate_students.rst
+         :start-after: .. Jacob Oh
+         :end-before: ..
+
+   .. grid-item-card:: Nathan Hogg
+      :text-align: center
+
+      +++
+      .. include:: ./_static/undergraduate_students.rst
+         :start-after: .. Nathan Hogg
+         :end-before: ..
+
+
 Collaborators
 *************
 
