@@ -368,4 +368,4 @@ consult Loyola University Chicago's `official admissions resources <https://gpem
 
    members
    projects
-   publications
+   publications/index.rst
