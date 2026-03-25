@@ -58,5 +58,5 @@ html_theme_options = {
     ],
 }
 html_title = project
-html_logo = "_static/images/headshot.png"
+html_logo = "_static/images/logo.jpeg"
 html_favicon = "_static/favicon.png"
