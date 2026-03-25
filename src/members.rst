@@ -124,8 +124,61 @@ Ph.D Students
 Masters Students
 ****************
 
+.. grid:: 3
+
+   .. grid-item-card:: Kenny Lyons
+      :text-align: center
+
+      +++
+      .. include:: ./_static/masters_students.rst
+         :start-after: .. Kenny Lyons
+         :end-before: ..
+
+   .. grid-item-card:: Lingjie Liao
+      :text-align: center
+
+      +++
+      .. include:: ./_static/masters_students.rst
+         :start-after: .. Lingjie Liao
+         :end-before: ..
+
+   .. grid-item-card:: Derek Skinner
+      :text-align: center
+
+      +++
+      .. include:: ./_static/masters_students.rst
+         :start-after: .. Derek Skinner
+         :end-before: ..
+
 Undergraduate Students
 **********************
+
+.. grid:: 3
+
+   .. grid-item-card:: Griffen Lee
+      :text-align: center
+
+      +++
+      .. include:: ./_static/undergraduate_students.rst
+         :start-after: .. Griffen Lee
+         :end-before: ..
+
+   .. grid-item-card:: Jacob Oh
+      :text-align: center
+
+      +++
+      .. include:: ./_static/undergraduate_students.rst
+         :start-after: .. Jacob Oh
+         :end-before: ..
+
+   .. grid-item-card:: Nathan Hogg
+      :text-align: center
+
+      +++
+      .. include:: ./_static/undergraduate_students.rst
+         :start-after: .. Nathan Hogg
+         :end-before: ..
+
 
 Collaborators
 *************
