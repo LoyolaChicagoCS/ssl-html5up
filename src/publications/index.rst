@@ -1,5 +1,5 @@
 ################
- All Blog Posts
+ Blog Posts
 ################
 
 .. postlist::
