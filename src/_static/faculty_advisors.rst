@@ -8,7 +8,7 @@
 
 .. Konstantin Läufer
 :bdg-link-primary-line:`ORCID <https://orcid.org/0000-0002-7548-0876>`
-:bdg-secondary-line:`Google Scholar`
+:bdg-secondary-line:`Google Scholar <https://scholar.google.com/citations?user=Rs0f_nMAAAAJ>`
 
 .. Mohammed Abuhamad
 :bdg-secondary-line:`ORCID`
