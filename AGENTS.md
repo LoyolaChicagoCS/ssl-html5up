@@ -20,6 +20,10 @@ Checked paths:
 If these files are added later, treat them as higher-priority instructions and
 update this document.
 
+## 2.1) Recommended Agent Model
+- Recommended model for agentic edits in this repo: `GPT-5.3-Codex`
+- Preferred access path: GitHub Copilot
+
 ## 3) Environment Setup
 Preferred setup:
 ```bash
@@ -41,7 +45,7 @@ The Sphinx build is the effective validation gate.
 
 Build site:
 ```bash
-make build
+make build-proj
 ```
 Equivalent direct command:
 ```bash
@@ -50,7 +54,7 @@ uv run sphinx-build -vvv --write-all --fresh-env src build
 
 Local live preview:
 ```bash
-make serve
+make serve-site
 ```
 Equivalent direct command:
 ```bash
