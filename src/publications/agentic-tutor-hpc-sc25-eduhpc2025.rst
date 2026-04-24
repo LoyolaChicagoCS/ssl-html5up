@@ -8,36 +8,36 @@
 Advancing HPC Education with an Agentic Tutoring System (EduHPC 2025)
 ======================================================================
 
-This post highlights a recent **EduHPC 2025** paper `doi:10.1145/3731599.3767386 <https://dl.acm.org/doi/10.1145/3731599.3767386>`__ led by my PhD student **Erik Pautsch** and co-supervised by me and  **Silvio Rizzi** at Argonne National Laboratory.  
+This post highlights a recent **EduHPC 2025** paper `doi:10.1145/3731599.3767386 <https://dl.acm.org/doi/10.1145/3731599.3767386>`__ led by my PhD student **Erik Pautsch** and co-supervised by me and  **Silvio Rizzi** at Argonne National Laboratory.
 
-In this work, we introduce an **agentic tutoring system** that supports instructors in planning, teaching, and assessing high-performance computing (HPC) content.  
+In this work, we introduce an **agentic tutoring system** that supports instructors in planning, teaching, and assessing high-performance computing (HPC) content.
 Our goal is to make HPC instruction more accessible, scalable, and sustainable as it is presently lacking in all three dimensions.
 We think AI can help.
 
 Abstract / Summary
 ------------------
 
-This summer we explored how an agentic tutoring system could lower barriers to HPC and parallel/distributed computing (PDC) education.  
+This summer we explored how an agentic tutoring system could lower barriers to HPC and parallel/distributed computing (PDC) education.
 Our EduHPC 2025 paper presents a system that assists instructors with:
 
-- lesson planning  
-- generation of teaching materials  
-- adaptive explanations based on learner background  
-- structured assessment and feedback  
+- lesson planning
+- generation of teaching materials
+- adaptive explanations based on learner background
+- structured assessment and feedback
 
-Our initial deployment at Argonne demonstrates that we can prepare lessons more efficiently, improve accessibility of HPC concepts, and streamline evaluation.  
+Our initial deployment at Argonne demonstrates that we can prepare lessons more efficiently, improve accessibility of HPC concepts, and streamline evaluation.
 We believe this represents a meaningful step toward **democratizing HPC education**.
 
 Background: Why HPC Needs Better Teaching Tools
 -----------------------------------------------
 
-HPC and PDC skills are increasingly essential across scientific computing, engineering, modeling and simulation, and data-intensive research.  
+HPC and PDC skills are increasingly essential across scientific computing, engineering, modeling and simulation, and data-intensive research.
 
 Yet teaching HPC remains challenging for many reasons:
 
-- Many institutions lack faculty with substantial HPC experience.  
-- Preparing examples for MPI, OpenMP, GPUs, profiling, and performance studies is labor-intensive.  
-- Existing curricula are fragmented and often tied to individual experts.  
+- Many institutions lack faculty with substantial HPC experience.
+- Preparing examples for MPI, OpenMP, GPUs, profiling, and performance studies is labor-intensive.
+- Existing curricula are fragmented and often tied to individual experts.
 - Adoption of HPC coursework is still uneven, especially at teaching-focused institutions.
 
 Our work asks whether **intelligent tutoring systems can meaningfully support instructors** -- reducing preparation time, lowering expertise requirements, and expanding access.
@@ -47,10 +47,10 @@ Key Contributions
 
 Our paper makes several core contributions:
 
-1. **We created an agentic HPC tutoring system** that helps with lesson planning, content generation, instructional guidance, and assessment.  
-2. **We designed the system explicitly for instructors of varying experience levels**, not only HPC specialists.  
-3. **We implemented adaptive content generation**, allowing material to adjust for novice or advanced learners.  
-4. **We integrated assessment capabilities** that support consistent evaluation of student work.  
+1. **We created an agentic HPC tutoring system** that helps with lesson planning, content generation, instructional guidance, and assessment.
+2. **We designed the system explicitly for instructors of varying experience levels**, not only HPC specialists.
+3. **We implemented adaptive content generation**, allowing material to adjust for novice or advanced learners.
+4. **We integrated assessment capabilities** that support consistent evaluation of student work.
 5. **We conducted an evaluation at Argonne**, demonstrating feasibility under realistic instructional conditions.
 
 Initial Results
@@ -58,9 +58,9 @@ Initial Results
 
 Our early results show:
 
-- Lesson plans and teaching units could be generated significantly faster than preparing materials manually.  
-- The generated instructional materials—slides, examples, exercises—were high enough quality for direct classroom use.  
-- Adaptivity helped us reach learners with different backgrounds effectively.  
+- Lesson plans and teaching units could be generated significantly faster than preparing materials manually.
+- The generated instructional materials—slides, examples, exercises—were high enough quality for direct classroom use.
+- Adaptivity helped us reach learners with different backgrounds effectively.
 - The system performed well in a realistic (but small) instructional environment.
 
 These findings suggest that intelligent systems can **augment instructors**, helping expand HPC education capacity.
@@ -68,22 +68,22 @@ These findings suggest that intelligent systems can **augment instructors**, hel
 Key Take-Aways
 --------------
 
-- Agentic systems can broaden access to HPC education across many types of institutions.  
-- Automating planning and assessment reduces barriers to offering HPC courses.  
-- Adaptivity improves inclusion by addressing diverse learner backgrounds.  
-- The Argonne deployment on leadership-class systems (e.g. Polaris) demonstrated real-world practicality.  
+- Agentic systems can broaden access to HPC education across many types of institutions.
+- Automating planning and assessment reduces barriers to offering HPC courses.
+- Adaptivity improves inclusion by addressing diverse learner backgrounds.
+- The Argonne deployment on leadership-class systems (e.g. Polaris) demonstrated real-world practicality.
 
 Future Work
 -----------
 
 We plan to extend this work by:
 
-- Deploying the system across additional academic settings  
-- Conducting longitudinal studies over full terms  
-- Expanding HPC topic coverage (MPI, OpenMP, GPUs, profiling, debugging, energy-aware computing)  
-- Adding automated grading and adaptive exercises  
-- Integrating with learning management systems  
-- Supporting community-driven lesson templates and shared teaching modules  
+- Deploying the system across additional academic settings
+- Conducting longitudinal studies over full terms
+- Expanding HPC topic coverage (MPI, OpenMP, GPUs, profiling, debugging, energy-aware computing)
+- Adding automated grading and adaptive exercises
+- Integrating with learning management systems
+- Supporting community-driven lesson templates and shared teaching modules
 
 Access
 ----------------------

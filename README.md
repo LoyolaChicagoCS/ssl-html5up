@@ -15,7 +15,7 @@ deployed to GitHub Pages.
 
 ## Production URL
 
-- https://ssl.cs.luc.edu
+- <https://ssl.cs.luc.edu>
 
 ## Repository Structure
 
@@ -86,48 +86,48 @@ uv run sphinx-build -b linkcheck src build/linkcheck
 ## How to Contribute
 
 1. Review contribution policy in `.github/CONTRIBUTING.md`.
-2. Create a feature branch from `main`.
-3. Make focused changes in `src/` (and `src/_static/` when needed).
-4. Run the validation commands above.
-5. Open a PR with a concise rationale and verification notes.
+1. Create a feature branch from `main`.
+1. Make focused changes in `src/` (and `src/_static/` when needed).
+1. Run the validation commands above.
+1. Open a PR with a concise rationale and verification notes.
 
 ## Step-by-Step: Add or Edit a Member Profile
 
 1. Identify which group card to update in `src/members.rst`.
-2. Add or update the corresponding profile snippet in the correct file under
+1. Add or update the corresponding profile snippet in the correct file under
    `src/_static/` (for example `faculty_advisors.rst`, `phd_students.rst`,
    `masters_students.rst`, `undergraduate_students.rst`, `collaborators.rst`,
    `alumni.rst`).
-3. Follow the existing marker pattern exactly:
+1. Follow the existing marker pattern exactly:
    - Start each snippet block with `.. Full Name`
    - Keep the trailing `..` sentinel structure intact
-4. If adding a new person card, add a matching `.. grid-item-card::` entry in
+1. If adding a new person card, add a matching `.. grid-item-card::` entry in
    `src/members.rst` with the proper `.. include::` slice.
-5. Build locally (`make build-proj`) and verify the member appears correctly.
-6. Run strict validation before opening the PR.
+1. Build locally (`make build-proj`) and verify the member appears correctly.
+1. Run strict validation before opening the PR.
 
 ## Step-by-Step: Add a Publication/Blog Post
 
 1. Create a new `.rst` file under `src/publications/`.
-2. Use existing publication pages as templates for structure.
-3. Ensure metadata/content is compatible with the `.. postlist::` block in
+1. Use existing publication pages as templates for structure.
+1. Ensure metadata/content is compatible with the `.. postlist::` block in
    `src/publications/index.rst`.
-4. Build locally and verify the post appears on the publications page.
-5. Run strict validation and linkcheck if external links were added.
+1. Build locally and verify the post appears on the publications page.
+1. Run strict validation and linkcheck if external links were added.
 
 ## Step-by-Step: Update Projects Page
 
 1. Edit `src/projects.rst`.
-2. Keep headings and directive style consistent with surrounding content.
-3. Build and verify page rendering.
-4. Run strict validation before submitting the PR.
+1. Keep headings and directive style consistent with surrounding content.
+1. Build and verify page rendering.
+1. Run strict validation before submitting the PR.
 
 ## Step-by-Step: Update Website Styles
 
 1. Edit `src/_static/custom.css`.
-2. Prefer scoped style changes over broad global overrides.
-3. Verify desktop and mobile rendering.
-4. Rebuild and confirm no regressions in core pages.
+1. Prefer scoped style changes over broad global overrides.
+1. Verify desktop and mobile rendering.
+1. Rebuild and confirm no regressions in core pages.
 
 ## Sphinx-Specific Authoring Notes
 
@@ -147,14 +147,14 @@ This project supports two release tracks.
 - GitHub Actions builds and deploys the site via
   `.github/workflows/build.yml`.
 - Confirm the production site reflects the new content at
-  https://ssl.cs.luc.edu.
+  <https://ssl.cs.luc.edu>.
 
 ### 2) Versioned release (SemVer tags)
 
 1. Ensure the desired changes are merged to `main`.
-2. Create and push a semantic version tag, e.g. `v1.2.3`.
-3. Create a GitHub Release for that tag.
-4. Draft release notes from merged PRs and resolved issues since the previous
+1. Create and push a semantic version tag, e.g. `v1.2.3`.
+1. Create a GitHub Release for that tag.
+1. Draft release notes from merged PRs and resolved issues since the previous
    tag.
 
 ## Contribution Guidelines
