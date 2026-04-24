@@ -81,12 +81,11 @@ Isaac Ahlgren, Rushikeshh Shirsat, Omar Achkar, George K. Thiruvathukal, Kyu In 
 
    @INPROCEEDINGS{11130070,
      author={Ahlgren, Isaac and Shirsat, Rushikesh and Achkar, Omar and Thiruvathukal, George K and Lee, Kyu In and Klingensmith, Neil},
-     booktitle={2025 IEEE International Conference on Cyber Security and Resilience (CSR)}, 
-     title={Not-so-Secret Authentication: The SyncBleed Attacks and Defenses for Zero-Involvement Authentication Systems}, 
+     booktitle={2025 IEEE International Conference on Cyber Security and Resilience (CSR)},
+     title={Not-so-Secret Authentication: The SyncBleed Attacks and Defenses for Zero-Involvement Authentication Systems},
      year={2025},
      volume={},
      number={},
      pages={592-599},
      keywords={Resistance;Wireless communication;Privacy;Authentication;Vectors;Synchronization;Security;Standards;Resilience;Principal component analysis},
      doi={10.1109/CSR64739.2025.11130070}}
-   

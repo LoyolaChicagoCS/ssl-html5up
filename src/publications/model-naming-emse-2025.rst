@@ -59,7 +59,7 @@ Wenxin’s work provides the first empirical foundation for standardizing how we
 It’s a major step toward making AI reuse as reliable and transparent as traditional software engineering.
 
 If you’re interested in the technical nitty-gritty or want to try out
-the DARA tool yourself, the paper and the code are available at 
+the DARA tool yourself, the paper and the code are available at
 `GitHub PurdueDualityLab/PTM-Naming <https://github.com/PurdueDualityLab/PTM-Naming>`__.
 
 Citation

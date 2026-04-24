@@ -21,16 +21,16 @@ This raises a crucial question:
 Important concerns
 ------------------
 
-* **Historical bias baked into training data**  
+* **Historical bias baked into training data**
   AI systems inherit the limitations and inequities of the datasets used to train them.
 
-* **Opacity and lack of accountability**  
+* **Opacity and lack of accountability**
   Candidates often cannot understand, challenge, or appeal algorithmic decisions.
 
-* **Risk of reinforcing homogeneity**  
+* **Risk of reinforcing homogeneity**
   Automated systems may unintentionally filter out qualified applicants whose backgrounds differ from past hires.
 
-* **Regulatory and legal implications**  
+* **Regulatory and legal implications**
   As governments introduce stricter rules for automated hiring systems, organizations must ensure transparent and fair processes.
 
 Moving forward responsibly
@@ -38,9 +38,9 @@ Moving forward responsibly
 
 To ensure responsible AI use in hiring, organizations must:
 
-* audit models regularly for disparate impact,  
-* adopt transparent scoring criteria,  
-* maintain meaningful human oversight, and  
+* audit models regularly for disparate impact,
+* adopt transparent scoring criteria,
+* maintain meaningful human oversight, and
 * prioritize fairness and inclusivity in both design and deployment.
 
 AI can assist in hiring, but it must never replace critical human judgment—especially when people’s careers and livelihoods are at stake.
@@ -54,8 +54,8 @@ Theresa Fister and George K. Thiruvathukal, "Artificial Intelligence Employment 
 
    @article{10687332,
      author={Fister, Theresa and Thiruvathukal, George K.},
-     journal={Computer}, 
-     title={Artificial Intelligence Employment Interviews: Examining Limitations, Biases, and Perceptions}, 
+     journal={Computer},
+     title={Artificial Intelligence Employment Interviews: Examining Limitations, Biases, and Perceptions},
      year={2024},
      volume={57},
      number={10},
